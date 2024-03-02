@@ -30,5 +30,17 @@ The dataset is split into training and testing sets, and each model is trained u
 
 The results obtained from the trained models are analyzed and compared to determine the most effective algorithm for heart disease classification. Additionally, feature importance analysis is conducted to identify the key predictors of heart disease. The findings of this project provide valuable insights into the application of machine learning techniques in healthcare and contribute to the development of accurate diagnostic tools for heart disease detection and management.
 
+<table>
+  <tr>
+    <td>
+      <img src="Images/model_grid.png" alt="Model Accuracies and F1 scores" style="width: 400px; height: 250px; object-fit: cover" title="Model Grid"/>
+    </td>
+    <td>
+      <img src="Images/ROC.png" alt="ROC Curve" style="width: 400px; height: 250px; object-fir: cover;" title="Roc curve"/>
+    </td>
+  </tr>
+</table>
+
+
 
 
